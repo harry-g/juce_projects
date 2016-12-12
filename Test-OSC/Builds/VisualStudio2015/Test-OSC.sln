@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2015
+Project("{C981E5A5-1D27-FB54-74EE-7D437C4B8F03}") = "Test-OSC", "Test-OSC.vcxproj", "{7A762DA9-1F53-46F0-09D2-792C1BE953E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A762DA9-1F53-46F0-09D2-792C1BE953E6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7A762DA9-1F53-46F0-09D2-792C1BE953E6}.Debug|Win32.Build.0 = Debug|Win32
+		{7A762DA9-1F53-46F0-09D2-792C1BE953E6}.Release|Win32.ActiveCfg = Release|Win32
+		{7A762DA9-1F53-46F0-09D2-792C1BE953E6}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
