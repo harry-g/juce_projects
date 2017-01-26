@@ -17,20 +17,20 @@
                        isDebug="0" optimisation="3" targetName="Test-OSC"/>
       </CONFIGURATIONS>
       <MODULEPATHS>
-        <MODULEPATH id="juce_core" path="../../../juce-develop/modules"/>
-        <MODULEPATH id="juce_events" path="../../../juce-develop/modules"/>
-        <MODULEPATH id="juce_graphics" path="../../../juce-develop/modules"/>
-        <MODULEPATH id="juce_data_structures" path="../../../juce-develop/modules"/>
-        <MODULEPATH id="juce_gui_basics" path="../../../juce-develop/modules"/>
-        <MODULEPATH id="juce_gui_extra" path="../../../juce-develop/modules"/>
-        <MODULEPATH id="juce_cryptography" path="../../../juce-develop/modules"/>
-        <MODULEPATH id="juce_video" path="../../../juce-develop/modules"/>
-        <MODULEPATH id="juce_opengl" path="../../../juce-develop/modules"/>
-        <MODULEPATH id="juce_audio_basics" path="../../../juce-develop/modules"/>
-        <MODULEPATH id="juce_audio_devices" path="../../../juce-develop/modules"/>
-        <MODULEPATH id="juce_audio_formats" path="../../../juce-develop/modules"/>
-        <MODULEPATH id="juce_audio_processors" path="../../../juce-develop/modules"/>
-        <MODULEPATH id="juce_osc" path="../../../juce-develop/modules"/>
+        <MODULEPATH id="juce_core" path="../../juce-develop/modules"/>
+        <MODULEPATH id="juce_events" path="../../juce-develop/modules"/>
+        <MODULEPATH id="juce_graphics" path="../../juce-develop/modules"/>
+        <MODULEPATH id="juce_data_structures" path="../../juce-develop/modules"/>
+        <MODULEPATH id="juce_gui_basics" path="../../juce-develop/modules"/>
+        <MODULEPATH id="juce_gui_extra" path="../../juce-develop/modules"/>
+        <MODULEPATH id="juce_cryptography" path="../../juce-develop/modules"/>
+        <MODULEPATH id="juce_video" path="../../juce-develop/modules"/>
+        <MODULEPATH id="juce_opengl" path="../../juce-develop/modules"/>
+        <MODULEPATH id="juce_audio_basics" path="../../juce-develop/modules"/>
+        <MODULEPATH id="juce_audio_devices" path="../../juce-develop/modules"/>
+        <MODULEPATH id="juce_audio_formats" path="../../juce-develop/modules"/>
+        <MODULEPATH id="juce_audio_processors" path="../../juce-develop/modules"/>
+        <MODULEPATH id="juce_osc" path="../../juce-develop/modules"/>
       </MODULEPATHS>
     </VS2015>
   </EXPORTFORMATS>
