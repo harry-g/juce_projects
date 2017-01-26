@@ -2,7 +2,7 @@
 
 <JUCERPROJECT id="fUtA01" name="Test-OSC" projectType="consoleapp" version="1.0.0"
               bundleIdentifier="com.yourcompany.TestOSC" includeBinaryInAppConfig="1"
-              jucerVersion="4.3.0">
+              jucerVersion="4.3.1">
   <MAINGROUP id="aN8vBU" name="Test-OSC">
     <GROUP id="{BA91778F-F0C9-9FA6-A14A-3D6A663CCEB8}" name="Source">
       <FILE id="HSoIjN" name="Main.cpp" compile="1" resource="0" file="Source/Main.cpp"/>
