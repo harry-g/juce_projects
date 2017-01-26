@@ -92,8 +92,8 @@ private:
                 stopTimer();
                 // missing blob - show last successful size
                 printf("Detected missing blob!\n");
-                printf("Max. blob size in this setup is %d bytes\n", blobSize);
-                printf("Press any key to exit...\n");
+                printf("\nMax. blob size in this setup is %d bytes\n", blobSize);
+                printf("\nPress Enter to exit...\n");
                 getchar();
                 quit();
             }
